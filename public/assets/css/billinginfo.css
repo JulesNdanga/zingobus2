@@ -1,0 +1,157 @@
+/* Booking Details Page Design CSS */
+.bg-faded {
+	background: #f7f7f7 !important;
+}
+
+.mar-t-61 {
+	margin-top: 61px;
+}
+
+.sorc-dest-info {
+	color: #d10b0b !important;
+	font-weight: 400;
+}
+
+.login-box0 {
+	margin-top: 0px !important;
+}
+
+.pad-t-0 {
+	padding-top: 0px !important;
+}
+
+.pad-t-8 {
+	padding-top: 8px !important;
+}
+
+.pad-l-8 {
+	padding-left: 8px !important;
+}
+
+.btn-bg-red {
+	background: #d10b0b !important;
+}
+
+.box-shad {
+	box-shadow: 0px 0px 3px 0px #dadada;
+}
+
+.pass-bg {
+	background: #f8d8bd !important;
+}
+
+.wid-auto {
+	width: auto;
+}
+
+.bg-none {
+	background: #fff !important;
+}
+
+.bg-ltegray {
+	background: #ececec !important;
+}
+
+.bg-ltegray h4 {
+	background: #ececec !important;
+}
+
+.bg-gray-e4 {
+	background: #f6f6f6;
+}
+
+.pad-b-0 {
+	padding-bottom: 0px !important;
+}
+
+.pad-0 {
+	padding: 0px;
+}
+
+.col-separate {
+	padding: 0px 25px 10px 25px;
+	background: #f8d8bd;
+}
+
+.bor-b {
+	border-bottom: 1px solid #e6e6e6;
+}
+
+.pad-tb-13 {
+	padding-top: 13px !important;
+	padding-bottom: 14px !important;
+}
+
+.sidebar-body .table tr td {
+	font-size: 13px;
+}
+
+.booking-sidebar .sidebar-body .total {
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.wallet-usage-container .balance-payment-container span {
+	color: #d10b0b !important;
+}
+
+.wallet-details {
+	padding: 10px;
+}
+
+.wallet-details-box {
+	background: #fff;
+}
+
+a.link-hover:hover {
+	color: #d10b0b !important;
+}
+
+/* Card Verification */
+.card-verification {
+	overflow: hidden;
+	padding: 0 0 30px 0;
+}
+
+.card-verification .instruction {
+	background: #dadada;
+	padding: 15px;
+}
+
+.card-verification .cardinfo {
+	padding: 15px;
+}
+
+.card-verification .card-verification-body { //
+	padding: 20px 20px 30px 20px;
+	margin: 10px 0 20px 0;
+	-webkit-box-shadow: 0px 1px 2px 1px rgba(0, 0, 0, 0.1);
+	-moz-box-shadow: 0px 1px 2px 1px rgba(0, 0, 0, 0.1);
+	box-shadow: 0px 1px 2px 1px rgba(0, 0, 0, 0.1);
+	border: 1px solid #f4f4f4; //
+	background: #dadada;
+}
+
+.mar-r-5 {
+	margin-right: 5px;
+}
+
+.btn-submit {
+	background: #d10b0b;
+	border: none;
+	border-radius: 0;
+	color: #fff;
+	font-weight: bold;
+	transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	-ms-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	-webkit-transition: all 0.3s ease;
+	padding: 10px 30px;
+	margin: 0;
+}
+
+.btn-submit:hover {
+	background: #ba0000;
+	color: #fff;
+}

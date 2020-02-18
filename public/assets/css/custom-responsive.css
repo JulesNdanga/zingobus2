@@ -1,0 +1,105 @@
+@media (min-width:992px) and (max-width:1200px) {
+.profile-page-transaction-listing .profile-page-transaction-listing-column-pnr{width:25%;}
+.profile-page-transaction-listing .profile-page-transaction-listing-column-operator{width:25%;}
+.profile-page-transaction-listing .profile-page-transaction-listing-column-source{width:25%;}
+.profile-page-transaction-listing .profile-page-transaction-listing-column-destination{width:25%;}
+.profile-page-transaction-listing .profile-page-transaction-listing-column-jdate{width:25%;}
+.profile-page-transaction-listing .profile-page-transaction-listing-column-seats{width:25%;}
+.profile-page-transaction-listing .profile-page-transaction-listing-column-fare{width:25%;}
+.profile-page-transaction-listing .profile-page-transaction-listing-column-status{width:25%;}
+}
+@media (min-width:768px) and (max-width:991px) {
+.filter-area .filter-single-container { width: 100%; margin-bottom: 10px }
+.main-footer-nav p { text-align: center }
+.main-footer-nav ul { text-align: center }
+.footer-icon-container .seperator { border-right: none }
+.booking-tab .nav-tabs>li { border-bottom: 1px solid #e4e4e4 }
+.booking-tab .nav-tabs>li:last-child { border-bottom: none }
+.booking-tab .nav-tabs .active:after { background: none }
+.user-profile .container .ui-tabs-nav li { width: 100% !important }
+.bg-city-buildings, .bg-clouds, .bg-paraloon { display: none }
+.home-page-banner .main-search-container h3 { font-size: 15px; margin: 15px 0 }
+.home-page-banner .main-search-container h3 span { font-size: 24px }
+.search-container-shadow-1 { display: none }
+.search-container-shadow-2 { display: none }
+.main-search-container .form-group { width: 50% }
+.main-search-container .form-group1 { width: 100% }
+.main-search-container .search-button { margin: 0 0 20px 30%; width: 40% }
+.profile-page-transaction-listing .profile-page-transaction-listing-column-pnr{width:25%;}
+.profile-page-transaction-listing .profile-page-transaction-listing-column-operator{width:25%;}
+.profile-page-transaction-listing .profile-page-transaction-listing-column-source{width:25%;}
+.profile-page-transaction-listing .profile-page-transaction-listing-column-destination{width:25%;}
+.profile-page-transaction-listing .profile-page-transaction-listing-column-jdate{width:25%;}
+.profile-page-transaction-listing .profile-page-transaction-listing-column-seats{width:25%;}
+.profile-page-transaction-listing .profile-page-transaction-listing-column-fare{width:25%;}
+.profile-page-transaction-listing .profile-page-transaction-listing-column-status{width:25%;}
+.profile-page-transaction-listing .profile-page-transaction-listing-column-refund-transid{width:15%}
+.profile-page-transaction-listing .profile-page-transaction-listing-column-refund-des{width:30%}
+.profile-page-transaction-listing .profile-page-transaction-listing-column-refund-type{width:21%}
+.profile-page-transaction-listing .profile-page-transaction-listing-column-refund-date{width:19%}
+.profile-page-transaction-listing .profile-page-transaction-listing-column-refund-amt{width:15%}
+}
+@media (max-width:767px) {
+.filter-area .filter-single-container { width: 100%; margin-bottom: 10px }
+.inner-bg { padding: 60px 0 110px 0 }
+.main-footer-nav p { text-align: center }
+.main-footer-nav ul { text-align: center }
+.main-footer-nav ul li { margin: 0 5px; display: inline-block }
+.footer-icon-container .seperator { border-right: none }
+.bookd-ticket-info-right { padding: 0 5px 5px 5px; border: none }
+.form-button { margin: 0 0 15px 15px }
+.modify-search .modify-search-button { margin-top: 0 }
+/* .available-services-swap a { display: none } */
+.flight-list-v2 .departure, .flight-list-v2 .stop-duration, .flight-list-v2 .destination, .flight-list-v2 .fare-detail { margin: 10px 0 0 0 }
+.flight-list-v2 .stop-duration { margin: 0 }
+.flight-list-v2 .fare-detail { text-align: center }
+.busseat-nav { padding: 0; overflow-x: auto; float: left; width: 100% }
+.bus-nav { padding: 0 0 0 0 }
+.bus-view-bp-points { margin-top: 20px }
+.bus-view-dp-points { margin-top: 20px }
+.booking-tab .nav-tabs>li { border-bottom: 1px solid #e4e4e4 }
+.booking-tab .nav-tabs>li:last-child { border-bottom: none }
+.booking-tab .nav-tabs .active:after { background: none }
+.tab-content .login-form { margin-top: 0 }
+.passenger-detail-body { overflow-x: auto }
+.res-popup-width { width: 80% !important }
+.bus-loading-pop-container { width: 300px !important }
+.bus-loading-pop-container .from-contianer { float: left; width: 100%; padding: 0 0 0 0; background: none; font-size: 16px; font-weight: bold; line-height: 18px; text-align: center }
+.bus-loading-pop-container .journey-date-contianer { float: left; width: 100%; padding: 0 15px 0 15px; font-size: 16px; font-weight: bold; line-height: 18px; text-align: center }
+.bus-loading-pop-container .to-container { float: left; width: 100%; padding: 0 0 0 0; background: none; font-size: 16px; font-weight: bold; line-height: 18px; text-align: center }
+.user-profile .container .ui-tabs-nav li { width: 100% !important }
+.bg-city-buildings, .bg-clouds, .bg-paraloon { display: none }
+.home-page-banner .main-search-container h3 { font-size: 15px; margin: 15px 0 }
+.home-page-banner .main-search-container h3 span { font-size: 24px }
+.search-container-shadow-1 { display: none }
+.search-container-shadow-2 { display: none }
+.main-search-container .form-group { width: 100% }
+.main-search-container .form-group1 { width: 100% }
+.main-search-container .search-button { margin: 0 0 20px 20%; width: 60% }
+.homepage-search-swap { right: 46%; top: 32px; -ms-transform: rotate(90deg); -webkit-transform: rotate(90deg); transform: rotate(90deg) }
+.main-search-container .form-group .input-group .location-box2 span.location-box-icon { margin: 11px 8px 11px 10px; }
+.main-search-container .form-group .input-group .location-box2 .form-control input { padding: 6px 10px 6px 30px; }
+.app-download-image-container .mobile-app-ios { margin: 0 }
+.title-margin-top-80 { margin-top: 0px; }
+.wallet-usage-container .wallet-usage-section .wallet-usage-section-box { width: 100%; }
+.wallet-usage-container .wallet-usage-section .wallet-usage-section-box-seperator { width: 100%; margin: 0; }
+.profile-page-transaction-listing .profile-page-transaction-listing-column-pnr{width:100%;}
+.profile-page-transaction-listing .profile-page-transaction-listing-column-operator{width:100%;}
+.profile-page-transaction-listing .profile-page-transaction-listing-column-source{width:100%;}
+.profile-page-transaction-listing .profile-page-transaction-listing-column-destination{width:100%;}
+.profile-page-transaction-listing .profile-page-transaction-listing-column-jdate{width:100%;}
+.profile-page-transaction-listing .profile-page-transaction-listing-column-seats{width:50%;}
+.profile-page-transaction-listing .profile-page-transaction-listing-column-fare{width:50%;}
+.profile-page-transaction-listing .profile-page-transaction-listing-column-status{width:100%;}
+.profile-page-transaction-listing .profile-page-transaction-listing-column-refund-transid{width:100%}
+.profile-page-transaction-listing .profile-page-transaction-listing-column-refund-des{width:100%}
+.profile-page-transaction-listing .profile-page-transaction-listing-column-refund-type{width:100%}
+.profile-page-transaction-listing .profile-page-transaction-listing-column-refund-date{width:50%}
+.profile-page-transaction-listing .profile-page-transaction-listing-column-refund-amt{width:50%}
+.offer-notification-slide-up-container{display:none;}
+}
+@media (max-width:415px) {
+h1, h2 { font-size: 32px }
+.mobile-app-img-bg { width: 100%; height: auto; }
+.title-margin-top-80 { margin-top: 0; }
+}
